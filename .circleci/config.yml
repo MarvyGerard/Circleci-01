@@ -7,3 +7,4 @@ jobs:
       - checkout
       - run: echo "A first hello"
       - run: echo "test"
+      - run: echo "test1"
