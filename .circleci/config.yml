@@ -9,4 +9,4 @@ jobs:
       - run: echo "test"
       - run: echo "test1"
       - run: echo "TOMMM"
-      - run: echt "test87787454"
+      - run: echo "test87787454"
